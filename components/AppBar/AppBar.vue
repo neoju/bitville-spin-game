@@ -1,6 +1,6 @@
 <template>
   <div
-    class="sticky pt-1 top-0 flex justify-between text-white z-50"
+    class="sticky pt-1 top-0 flex justify-between text-white z-50 h-fit"
     style="background-color: var(--bg-color)"
   >
     <AppBarMenuButton />

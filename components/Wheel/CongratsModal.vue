@@ -1,6 +1,6 @@
 <template>
   <div class="relative">
-    <v-card class="modal__container">
+    <v-card class="modal__container max-w-xs mx-auto">
       <v-card-title> Congratulations </v-card-title>
 
       <v-card-text>

@@ -1,6 +1,6 @@
 <template>
   <div class="relative">
-    <v-card class="modal__container">
+    <v-card class="modal__container max-w-xs mx-auto">
       <v-card-title>
         <span class="mdi mdi-emoticon-sad-outline text-8xl"></span>
         <p>Oh no</p></v-card-title

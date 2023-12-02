@@ -12,6 +12,13 @@ What is the strategy? After many hours of research (I didn't make something like
 I think the right way is to <b>create a PieChart and make it spinnable</b>,
 and D3js is the best choice (with many example). That's it!
 
+If you want to test the `unlucky` segment. You can change the `segmentIndex` in `~/components/Wheel/Wheel.vue` - line 74 to number `9`
+
+```diff
+- const segmentIndex = Math.floor(Math.random() * (segments.length - 1));
++ const segmentIndex = 9;
+```
+
 ## Setup
 
 I used `bun` for development but you can use other package manager to run the project.
