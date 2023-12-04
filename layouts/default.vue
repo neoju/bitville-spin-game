@@ -15,6 +15,6 @@ main {
   background-color: var(--bg-color);
   max-width: 1024px;
 
-  @apply w-full relative mx-auto p-2 pt-0;
+  @apply w-full h-screen mx-auto p-2 pt-0 fixed top-0 left-1/2 -translate-x-1/2;
 }
 </style>
