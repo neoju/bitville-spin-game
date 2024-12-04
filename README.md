@@ -1,4 +1,4 @@
-# Bitville SpinGame challenge
+# SpinGame challenge
 
 The goal is to create a simple game where users can spin a wheel to win random prizes.
 The wheel should have various segments, each representing a different prize.
